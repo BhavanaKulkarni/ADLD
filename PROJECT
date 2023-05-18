@@ -1,6 +1,1 @@
-# PROBLEM STATEMENT<br/>
-Design application specific approximate operators on fpga
-# INTRODUCTION
-Approximate multipliers are a type of digital circuit that perform multiplication operations using approximate arithmetic techniques. Unlike traditional multipliers that strive for exact accuracy, approximate multipliers focus on providing results that are close to the correct answer while minimizing the hardware complexity and power consumption.
-Approximate multipliers exploit the fact that in many applications, an exact multiplication result is not always necessary. By allowing small errors or approximations in the multiplication process, these circuits can achieve substantial reductions in area, power consumption, and latency compared to their exact counterparts.
-# PROPOSED ARCHITECTURE
+
